@@ -1,1 +1,2 @@
 ﻿print('Hello-goodbye!')
+x = int(input())
